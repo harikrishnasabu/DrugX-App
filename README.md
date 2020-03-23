@@ -1,2 +1,2 @@
-# DrugX
- Android App with MVVM,DAGGER2 in Kotlin
+#   MVVM,DAGGER2 in Kotlin
+
